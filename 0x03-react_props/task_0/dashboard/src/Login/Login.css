@@ -1,0 +1,14 @@
+:root {
+  --color-white: #fff;
+  --color-hb: #e1354b;
+}
+
+.App-body {
+  background-color: var(--color-white);
+  padding: 4rem;
+}
+
+.App-body input {
+  margin-right: 9px;
+  margin-left: 9px;
+}
