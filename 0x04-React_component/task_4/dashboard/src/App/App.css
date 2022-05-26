@@ -1,0 +1,10 @@
+:root {
+  --color-white: #fff;
+  --color-hb: #e1354b;
+}
+
+.App-body {
+  background-color: var(--color-white);
+  padding: 4rem;
+  min-height: 26rem;
+}
